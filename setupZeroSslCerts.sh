@@ -1,0 +1,1 @@
+cat domain.key domain.crt ca_bundle.crt > domain.pem
